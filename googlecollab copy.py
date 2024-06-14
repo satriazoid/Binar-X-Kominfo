@@ -1,0 +1,1 @@
+print(f"perkenalkan nama saya{Nama}, berasal dari{domisili}")
